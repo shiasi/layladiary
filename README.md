@@ -43,6 +43,12 @@ This theme is based on my HTML5 & CSS3 template (link to be added here).
 - to be found :)
 
 
+## Screenshots
+![Layla's Diary - Pagination](https://shevina.ir/screenshots/laylaydiary-s1.png)
+Layla's Diary - Pagination
+  
+![Layla's Diary - Front Page](https://shevina.ir/screenshots/laylaydiary-s2.png)
+Layla's Diary - Front Page
 
 ---
 
