@@ -1,0 +1,22 @@
+.blog-pic {
+    border-radius: 6px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 256px;
+
+    background-color: hsl(141, 53%, 53%);
+}
+
+
+.featured-page-image {
+    border-radius: 6px;
+    background-color: hsl(141, 53%, 53%);
+    min-height: 300px;
+    max-height: 1024px;
+    background-image: url('');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
