@@ -27,7 +27,7 @@
 
     if ($WHERE_AM_I == 'page') {
         // check for front page
-        if ($page->slug() == 'front') {
+        if ($page->slug() == 'front' || $page->slug() == 'home') {
             include(THEME_DIR_PHP . 'front.php');
         } else {
             include(THEME_DIR_PHP . 'page.php');
