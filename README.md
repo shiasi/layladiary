@@ -15,7 +15,7 @@ This theme is based on my HTML5 & CSS3 template (link to be added here).
 
 ## How to Enable Static Front Page
 1. Copy content in the `customfields.json` file to `admin panel` > `Custom fields`
-2. Create a page and name it **front**  or name whatever you want *but* change the slug to **front**. This Way: `options` > `SEO` > `FRIENDLY URL` > write: **front**
+2. Create a page and name it **front**  or **home** name whatever you want *but*  the slug must be **front** or **home**. This Way: `options` > `SEO` > `FRIENDLY URL` > write: **front** or **home**
 3. Go to `Bludit admin panel` > `General` > `Advanced` > `PREDEFINED PAGES` > `Homepage`: Choose the page you want as your home page
 
 
@@ -38,7 +38,7 @@ This theme is based on my HTML5 & CSS3 template (link to be added here).
 - find a way to get page info for blog page when frontpage is set (currently it uses the site information)
 - navbar improvement
 - add css for forms
-- find if there is a way to append custom fileds when theme is loaded
+- find if there is a way to append custom fields when theme is loaded
 - Improve the pagination
 - to be found :)
 
